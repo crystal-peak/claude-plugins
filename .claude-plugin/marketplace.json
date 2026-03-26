@@ -21,6 +21,21 @@
       "repository": "https://github.com/crystal-peak/linear-sync",
       "license": "MIT",
       "keywords": ["linear", "github", "sync", "hooks", "issue-tracking"]
+    },
+    {
+      "name": "email-tools",
+      "source": {
+        "source": "github",
+        "repo": "crystal-peak/email-tools"
+      },
+      "description": "Gmail assistant via gws CLI — triage, send, reply, forward, search, label, and cleanup",
+      "version": "0.1.0",
+      "author": {
+        "name": "crystal-peak"
+      },
+      "repository": "https://github.com/crystal-peak/email-tools",
+      "license": "MIT",
+      "keywords": ["gmail", "email", "triage", "gws", "productivity"]
     }
   ]
 }
