@@ -29,7 +29,7 @@
         "repo": "crystal-peak/email-tools"
       },
       "description": "Gmail assistant via gws CLI — triage, send, reply, forward, search, label, and cleanup",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "crystal-peak"
       },
