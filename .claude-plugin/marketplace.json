@@ -44,7 +44,7 @@
         "repo": "crystal-peak/agent-relay"
       },
       "description": "Let two Claude Code agents in separate private repos coordinate over an end-to-end encrypted, pull-based channel using free cloudflared tunnels",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "crystal-peak"
       },
